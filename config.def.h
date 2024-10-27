@@ -8,8 +8,8 @@ static double repeat_delay = 0.75;
 static int scan_rate = 50;
 /* one row of keys takes up 1/x of the screen height */
 static int heightfactor = 14;
-static int xspacing = 5;
-static int yspacing = 5;
+static int xspacing = 1;
+static int yspacing = 1;
 static const char *defaultfonts[] = {
 	"DejaVu Sans:bold:size=22"
 };
